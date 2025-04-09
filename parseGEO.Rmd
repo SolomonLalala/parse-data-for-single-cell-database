@@ -1,0 +1,65 @@
+---
+title: "parse geo"
+output: html_document
+date: "2025-04-09"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(GEOquery)
+library(tidyverse)
+```
+
+# setup
+```{r }
+# Specify the GEO Series ID
+gse_id <- "GSE160936" 
+
+# Specify the destination directory with gse_id
+dest_dir <- paste0(getwd(), "/", gse_id) 
+# Create the directory if it doesn't already exist
+if (!dir.exists(dest_dir)) {
+  dir.create(dest_dir, recursive = TRUE)
+}
+```
+
+# query
+```{r }
+# query geo and get the gse object
+gse <- getGEO(
+  GEO = gse_id, 
+  destdir = dest_dir, # Specify the destination directory
+  GSEMatrix = TRUE, # download the GSE Series Matrix
+  getGPL = FALSE, # do not download the GPL file
+  parseCharacteristics = TRUE, # parse characteristics, default is TRUE
+  ) 
+```
+
+# extract
+```{r}
+# Assign objects with clear names
+assign(paste0(gse_id, "_eset"), gse[[1]])
+assign(paste0(gse_id, "_pheno"), pData(get(paste0(gse_id, "_eset"))))
+assign(paste0(gse_id, "_feature"), fData(get(paste0(gse_id, "_eset"))))
+assign(paste0(gse_id, "_expr"), exprs(get(paste0(gse_id, "_eset"))))
+```
+
+# save
+```{r}
+save(list = c(
+  paste0(gse_id, "_eset"),
+  paste0(gse_id, "_pheno"),
+  paste0(gse_id, "_feature"),
+  paste0(gse_id, "_expr")),
+  file = paste0(dest_dir, "/", gse_id, "_objects.RData")
+  )
+```
+
+# extract dataset level information
+```{r}
+
+```
+
+# extract sample level information
+
+
