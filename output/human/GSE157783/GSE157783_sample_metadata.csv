@@ -1,0 +1,12 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,disease_state,age_at_death,sex,tissue
+GSE157783,GSM4774931,IPD_midbrain,Homo sapiens,NONE,Idiopathic Parkinson's disease (IPD),84,F,Midbrain
+GSE157783,GSM4774932,IPD_midbrain,Homo sapiens,NONE,Idiopathic Parkinson's disease (IPD),66,M,Midbrain
+GSE157783,GSM4774933,IPD_midbrain,Homo sapiens,NONE,Idiopathic Parkinson's disease (IPD),77,M,Midbrain
+GSE157783,GSM4774934,IPD_midbrain,Homo sapiens,NONE,Idiopathic Parkinson's disease (IPD),81,M,Midbrain
+GSE157783,GSM4774935,IPD_midbrain,Homo sapiens,NONE,Idiopathic Parkinson's disease (IPD),79,M,Midbrain
+GSE157783,GSM4774936,Control_midbrain,Homo sapiens,NONE,Healthy control,93,F,Midbrain
+GSE157783,GSM4774937,Control_midbrain,Homo sapiens,NONE,Healthy control,66,M,Midbrain
+GSE157783,GSM4774938,Control_midbrain,Homo sapiens,NONE,Healthy control,77,M,Midbrain
+GSE157783,GSM4774939,Control_midbrain,Homo sapiens,NONE,Healthy control,84,M,Midbrain
+GSE157783,GSM4774940,Control_midbrain,Homo sapiens,NONE,Healthy control,88,M,Midbrain
+GSE157783,GSM4774941,Control_midbrain,Homo sapiens,NONE,Healthy control,90,M,Midbrain

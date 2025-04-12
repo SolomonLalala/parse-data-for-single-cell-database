@@ -1,0 +1,12 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,developmental_stage,development_stage
+GSE135827,GSM4034900,human embryonic ganglionic eminences,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4034nnn/GSM4034900/suppl/GSM4034900_HE18_matrix.csv.gz,human embryonic ganglionic eminences,gestational week (GW) 18,NA
+GSE135827,GSM4231540,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic eminences,NA,gestational week GW09
+GSE135827,GSM4231541,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic eminences,NA,gestational week GW12-1
+GSE135827,GSM4231542,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic eminences,NA,gestational week GW13
+GSE135827,GSM4231543,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic eminences,NA,gestational week GW16
+GSE135827,GSM5714312,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 12,NA
+GSE135827,GSM5714313,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 12,NA
+GSE135827,GSM5714314,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 12,NA
+GSE135827,GSM5714315,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 18,NA
+GSE135827,GSM5714316,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 18,NA
+GSE135827,GSM5714317,human embryonic ganglionic emiences,Homo sapiens,NONE,human embryonic ganglionic emiences,gestational week (GW) 18,NA

@@ -1,0 +1,26 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,disease,brain_region
+GSE163577,GSM4982083,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982083/suppl/GSM4982083_01_10_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982084,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982084/suppl/GSM4982084_01_05_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982085,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982085/suppl/GSM4982085_01_06_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982086,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982086/suppl/GSM4982086_01_09_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982087,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982087/suppl/GSM4982087_02_11_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982088,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982088/suppl/GSM4982088_02_01_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982089,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982089/suppl/GSM4982089_02_04_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982090,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982090/suppl/GSM4982090_03_02_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982091,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982091/suppl/GSM4982091_03_03_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982092,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982092/suppl/GSM4982092_03_09_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982093,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982093/suppl/GSM4982093_04_11_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982094,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982094/suppl/GSM4982094_04_13_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982095,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982095/suppl/GSM4982095_04_15_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982096,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982096/suppl/GSM4982096_04_09_C_filtered_feature_bc_matrix.tar.gz,Control,Hippocampus
+GSE163577,GSM4982097,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982097/suppl/GSM4982097_05_10_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982098,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982098/suppl/GSM4982098_05_04_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982099,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982099/suppl/GSM4982099_H2004_AD_filtered_feature_bc_matrix.tar.gz,AD,Hippocampus
+GSE163577,GSM4982100,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982100/suppl/GSM4982100_O1_1OC_Ctx_filtered_feature_bc_matrix.tar.gz,Control,Superior frontal cortex
+GSE163577,GSM4982101,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982101/suppl/GSM4982101_O3_O3C_Ctx_filtered_feature_bc_matrix.tar.gz,Control,Superior frontal cortex
+GSE163577,GSM4982102,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982102/suppl/GSM4982102_O3_O9C_Ctx_filtered_feature_bc_matrix.tar.gz,Control,Superior frontal cortex
+GSE163577,GSM4982103,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982103/suppl/GSM4982103_O4_11AD_Ctx_filtered_feature_bc_matrix.tar.gz,AD,Superior frontal cortex
+GSE163577,GSM4982104,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982104/suppl/GSM4982104_O4_13AD_Ctx_filtered_feature_bc_matrix.tar.gz,AD,Superior frontal cortex
+GSE163577,GSM4982105,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982105/suppl/GSM4982105_O4_15AD_Ctx_filtered_feature_bc_matrix.tar.gz,AD,Superior frontal cortex
+GSE163577,GSM4982106,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982106/suppl/GSM4982106_O4_O9C_Ctx_filtered_feature_bc_matrix.tar.gz,Control,Superior frontal cortex
+GSE163577,GSM4982107,Human brain vascular nuclei,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4982nnn/GSM4982107/suppl/GSM4982107_O5_1OAD_Ctx_filtered_feature_bc_matrix.tar.gz,AD,Superior frontal cortex

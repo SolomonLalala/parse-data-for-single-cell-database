@@ -1,0 +1,3 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,tissue
+GSE110823,GSM3017260,Brain and Spinal Cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3017nnn/GSM3017260/suppl/GSM3017260_100_CNS_nuclei.mat.gz,post natal day 2 and 11,brain and spinal cord
+GSE110823,GSM3017261,Brain and Spinal Cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3017nnn/GSM3017261/suppl/GSM3017261_150000_CNS_nuclei.mat.gz,post natal day 2 and 11,brain and spinal cord

@@ -1,0 +1,10 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,developmental_stage
+GSE140817,GSM4120835,P0Cor1,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120836,P0Cor2,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120837,P0Cor3,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120838,Shh-P0-1,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120839,Shh-P0-2,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120840,Shh-P0-3,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120841,P0Cor1smo,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120842,P0Cor2smo,Mus musculus,NONE,Cortex,Postnatal day 0
+GSE140817,GSM4120843,P0Cor3smo,Mus musculus,NONE,Cortex,Postnatal day 0

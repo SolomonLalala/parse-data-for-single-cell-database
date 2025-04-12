@@ -1,0 +1,51 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file,disease_state,tissue,gender,age,stage
+GSE144463,GSM4288726,"Grade 2, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,65 years,Stage I
+GSE144463,GSM4288727,"Grade 2, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,52 years,Stage I
+GSE144463,GSM4288728,"Grade 2, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,39 years,Stage I
+GSE144463,GSM4288729,"Grade 2, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,42 years,Stage I
+GSE144463,GSM4288730,"Grade 2, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,60 years,Stage I
+GSE144463,GSM4288731,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,60 years,Stage II
+GSE144463,GSM4288732,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,54 years,Stage II
+GSE144463,GSM4288733,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,60 years,Stage II
+GSE144463,GSM4288734,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,57 years,Stage II
+GSE144463,GSM4288735,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,36 years,Stage II
+GSE144463,GSM4288736,"Grade 2, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,50 years,Stage II
+GSE144463,GSM4288737,"Grade 2, Stage II, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,45 years,Stage II
+GSE144463,GSM4288738,"Grade 2, Stage II",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,67 years,Stage II
+GSE144463,GSM4288739,"Grade 2, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,55 years,Stage III
+GSE144463,GSM4288740,"Grade 2, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,66 years,Stage III
+GSE144463,GSM4288741,"Grade 2, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,45 years,Stage III
+GSE144463,GSM4288742,"Grade 2, Stage III, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,60 years,Stage III
+GSE144463,GSM4288743,"Grade 2, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,56 years,Stage III
+GSE144463,GSM4288744,Grade 2 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,34 years,--
+GSE144463,GSM4288745,Grade 2 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,67 years,--
+GSE144463,GSM4288746,Grade 2 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,60 years,--
+GSE144463,GSM4288747,Grade 2 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,36 years,--
+GSE144463,GSM4288748,Grade 2 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,50 years,--
+GSE144463,GSM4288749,"Grade 3, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,35 years,Stage I
+GSE144463,GSM4288750,"Grade 3, Stage I, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,70 years,Stage I
+GSE144463,GSM4288751,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,40 years,Stage I
+GSE144463,GSM4288752,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,47 years,Stage I
+GSE144463,GSM4288753,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,51 years,Stage I
+GSE144463,GSM4288754,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,41 years,Stage I
+GSE144463,GSM4288755,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,65 years,Stage I
+GSE144463,GSM4288756,"Grade 3, Stage I, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,40 years,Stage I
+GSE144463,GSM4288757,"Grade 3, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,53 years,Stage II
+GSE144463,GSM4288758,"Grade 3, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,57 years,Stage II
+GSE144463,GSM4288759,"Grade 3, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,48 years,Stage II
+GSE144463,GSM4288760,"Grade 3, Stage II, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,35 years,Stage II
+GSE144463,GSM4288761,"Grade 3, Stage II, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,33 years,Stage II
+GSE144463,GSM4288762,"Grade 3, Stage II, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,39 years,Stage II
+GSE144463,GSM4288763,"Grade 3, Stage II, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,61 years,Stage II
+GSE144463,GSM4288764,"Grade 3, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,57 years,Stage III
+GSE144463,GSM4288765,"Grade 3, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,42 years,Stage III
+GSE144463,GSM4288766,"Grade 3, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,53 years,Stage III
+GSE144463,GSM4288767,"Grade 3, Stage III, ER+ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,46 years,Stage III
+GSE144463,GSM4288768,"Grade 3, Stage III, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,55 years,Stage III
+GSE144463,GSM4288769,"Grade 3, Stage III, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,59 years,Stage III
+GSE144463,GSM4288770,"Grade 3, Stage III, ER-ve",Homo sapiens,NONE,Breast cancer,Breast tumor tissue,Female,48 years,Stage III
+GSE144463,GSM4288771,Grade 3 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,41 years,--
+GSE144463,GSM4288772,Grade 3 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,39 years,--
+GSE144463,GSM4288773,Grade 3 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,64 years,--
+GSE144463,GSM4288774,Grade 3 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,48 years,--
+GSE144463,GSM4288775,Grade 3 Adjacent Normal,Homo sapiens,NONE,Breast cancer,Breast Normal tissue,Female,49 years,--

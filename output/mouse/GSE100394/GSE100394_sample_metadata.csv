@@ -1,0 +1,5 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,cell_type,gender,age
+GSE100394,GSM2561559,forebrain from wild-type male e11.5 mouse (hs122 line),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2561nnn/GSM2561559/suppl/GSM2561559_LPDD_110314_001A_genes.fpkm_tracking.gz,forebrain,male,embryonic day 11.5
+GSE100394,GSM2561560,forebrain from knockout male e11.5 mouse (hs122 line),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2561nnn/GSM2561560/suppl/GSM2561560_LPDD_110314_001B_genes.fpkm_tracking.gz,forebrain,male,embryonic day 11.5
+GSE100394,GSM2561561,forebrain from knockout male e11.5 mouse (hs122 line),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2561nnn/GSM2561561/suppl/GSM2561561_LPDD_110314_001C_genes.fpkm_tracking.gz,forebrain,male,embryonic day 11.5
+GSE100394,GSM2561562,forebrain from wild-type male e11.5 mouse (hs122 line),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2561nnn/GSM2561562/suppl/GSM2561562_LPDD_110314_001D_genes.fpkm_tracking.gz,forebrain,male,embryonic day 11.5

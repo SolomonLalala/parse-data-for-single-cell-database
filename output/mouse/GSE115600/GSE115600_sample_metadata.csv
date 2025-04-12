@@ -1,0 +1,3 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,tissue,gender
+GSE115600,GSM3184686,single_cell_RNAseq,Mus musculus,NONE,22 MO,SVZ,Male
+GSE115600,GSM3184687,single_cell_RNAseq,Mus musculus,NONE,2 MO,SVZ,Male

@@ -1,0 +1,4 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue
+GSE139448,GSM4141788,human brain tumor,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4141nnn/GSM4141788/suppl/GSM4141788_92017_dense.csv.gz,brain tumor
+GSE139448,GSM4141789,human brain tumor,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4141nnn/GSM4141789/suppl/GSM4141789_92217_dense.csv.gz,brain tumor
+GSE139448,GSM4141790,human brain tumor,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4141nnn/GSM4141790/suppl/GSM4141790_92717_dense.csv.gz,brain tumor

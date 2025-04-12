@@ -1,0 +1,7 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,disease,age
+GSE198323,GSM5945058,human hippocampus,Homo sapiens,NONE,hippocampus,mixed sample (non-demultiplexed),mixed sample (non-demultiplexed)
+GSE198323,GSM5945059,human hippocampus,Homo sapiens,NONE,hippocampus,mixed sample (non-demultiplexed),mixed sample (non-demultiplexed)
+GSE198323,GSM5945060,hippocampus,Homo sapiens,NONE,hippocampus,mixed sample (non-demultiplexed),mixed sample (non-demultiplexed)
+GSE198323,GSM5945061,human hippocampus,Homo sapiens,NONE,hippocampus,mixed sample (non-demultiplexed),mixed sample (non-demultiplexed)
+GSE198323,GSM5945062,human hippocampus,Homo sapiens,NONE,hippocampus,AD,85 Yrs
+GSE198323,GSM5945063,human hippocampus,Homo sapiens,NONE,hippocampus,Control,88Yrs

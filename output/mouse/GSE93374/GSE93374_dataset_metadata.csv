@@ -1,0 +1,8 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE93374,A Molecular Census of Arcuate Hypothalamus and Median Eminence Cell Types,"Drop-seq and single cell sequencing of mouse arcuate nucleus and median eminence. 
+
+Please see below link for searchable cluster-based gene expression.",https://portals.broadinstitute.org/single_cell/study/a-molecular-census-of-arcuate-hypothalamus-and-median-eminence-cell-types,28166221,"Drop-Seq was performed on six separate days using mice in C57BL6/J background at various ages/sex noted. On day 1, Chow_1 replicate was obtained. On day 2, Chow_2 replicate was  obtained. On day 3, Chow_3 replicate was obtained.  On day 4, 10% Diet_1 and HFD_1 replicates were obtained. On day 5, Fast_1 and Refed_1 replicates were obtained. On day 6,  Fast_2, Fast_3, Chow_4, and Chow_5 replicates were obtained",GSM2452122 GSM2452123 GSM2452124 GSM2452125 GSM2452126 GSM2452127 GSM2452128 GSM2452129 GSM2452130 GSM2452131 GSM2452132 ,Public on Jan 31 2017,"Drop-seq and single cell sequencing of mouse arcuate nucleus and median eminence. 
+
+Please see below link for searchable cluster-based gene expression.","ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93374/suppl/GSE93374_Merged_all_020816_BatchCorrected_LNtransformed_doubletsremoved_Data.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93374/suppl/GSE93374_Merged_all_020816_DGE.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE93nnn/GSE93374/suppl/GSE93374_cell_metadata.txt.gz"

@@ -1,0 +1,2 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,sex,tissue
+GSE120372,GSM3399102,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3399nnn/GSM3399102/suppl/GSM3399102_rawCounts.csv.gz,Embrhonic day 13.5,pooled male and female,Cerebellum

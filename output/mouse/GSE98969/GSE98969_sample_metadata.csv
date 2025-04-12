@@ -1,0 +1,98 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,organ,treatment,mouse_age
+GSE98969,GSM2629341,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629341/suppl/GSM2629341_AB1442.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629342,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629342/suppl/GSM2629342_AB1443.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629343,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629343/suppl/GSM2629343_AB1444.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629344,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629344/suppl/GSM2629344_AB1445.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629345,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629345/suppl/GSM2629345_AB1446.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629346,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629346/suppl/GSM2629346_AB1447.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629347,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629347/suppl/GSM2629347_AB1448.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629348,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629348/suppl/GSM2629348_AB1449.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629352,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629352/suppl/GSM2629352_AB1547.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629353,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629353/suppl/GSM2629353_AB1548.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629354,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629354/suppl/GSM2629354_AB1549.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629355,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629355/suppl/GSM2629355_AB1550.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629356,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629356/suppl/GSM2629356_AB1551.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629357,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629357/suppl/GSM2629357_AB1552.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629358,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629358/suppl/GSM2629358_AB1553.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629359,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629359/suppl/GSM2629359_AB1554.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629360,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629360/suppl/GSM2629360_AB1555.txt.gz,Spinal cord,ALS,135 days
+GSE98969,GSM2629361,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629361/suppl/GSM2629361_AB1556.txt.gz,Spinal cord,ALS,135 days
+GSE98969,GSM2629362,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629362/suppl/GSM2629362_AB1557.txt.gz,Spinal cord,ALS,135 days
+GSE98969,GSM2629363,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629363/suppl/GSM2629363_AB1558.txt.gz,Spinal cord,ALS,135 days
+GSE98969,GSM2629364,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629364/suppl/GSM2629364_AB1667.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629365,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629365/suppl/GSM2629365_AB1668.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629366,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629366/suppl/GSM2629366_AB1709.txt.gz,Brain,Alzheimer's disease,3 months
+GSE98969,GSM2629367,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629367/suppl/GSM2629367_AB1710.txt.gz,Brain,Alzheimer's disease,3 months
+GSE98969,GSM2629368,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629368/suppl/GSM2629368_AB1711.txt.gz,Brain,Alzheimer's disease,9 months
+GSE98969,GSM2629369,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629369/suppl/GSM2629369_AB1712.txt.gz,Brain,Alzheimer's disease,1 month
+GSE98969,GSM2629370,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629370/suppl/GSM2629370_AB1713.txt.gz,Brain,Alzheimer's disease,1 month
+GSE98969,GSM2629371,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629371/suppl/GSM2629371_AB1714.txt.gz,Brain,Alzheimer's disease,1 month
+GSE98969,GSM2629372,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629372/suppl/GSM2629372_AB1715.txt.gz,Brain,Aging,7 weeks
+GSE98969,GSM2629373,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629373/suppl/GSM2629373_AB1716.txt.gz,Brain,Aging,7 weeks
+GSE98969,GSM2629374,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629374/suppl/GSM2629374_AB1717.txt.gz,Brain,Aging,7 weeks
+GSE98969,GSM2629375,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629375/suppl/GSM2629375_AB1718.txt.gz,Brain,Aging,20 months
+GSE98969,GSM2629376,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629376/suppl/GSM2629376_AB1719.txt.gz,Brain,Aging,20 months
+GSE98969,GSM2629377,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629377/suppl/GSM2629377_AB1720.txt.gz,Brain,Aging,20 months
+GSE98969,GSM2629387,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629387/suppl/GSM2629387_AB1730.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629388,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629388/suppl/GSM2629388_AB1731.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629389,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629389/suppl/GSM2629389_AB1732.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629390,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629390/suppl/GSM2629390_AB1733.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629391,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629391/suppl/GSM2629391_AB1734.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629392,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629392/suppl/GSM2629392_AB1735.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629393,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629393/suppl/GSM2629393_AB1736.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629394,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629394/suppl/GSM2629394_AB1737.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629395,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629395/suppl/GSM2629395_AB1738.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629396,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629396/suppl/GSM2629396_AB1739.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629397,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629397/suppl/GSM2629397_AB1740.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629398,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629398/suppl/GSM2629398_AB1741.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629399,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629399/suppl/GSM2629399_AB1742.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629400,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629400/suppl/GSM2629400_AB1743.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629401,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629401/suppl/GSM2629401_AB1744.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629402,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629402/suppl/GSM2629402_AB1745.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629403,Spinal cord,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629403/suppl/GSM2629403_AB1746.txt.gz,Spinal cord,ALS,80 days
+GSE98969,GSM2629404,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629404/suppl/GSM2629404_AB1863.txt.gz,Brain,Alzheimer's disease,8 months
+GSE98969,GSM2629405,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629405/suppl/GSM2629405_AB1864.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629406,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629406/suppl/GSM2629406_AB2322.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629407,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629407/suppl/GSM2629407_AB2323.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629408,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629408/suppl/GSM2629408_AB2324.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629409,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629409/suppl/GSM2629409_AB2325.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629410,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629410/suppl/GSM2629410_AB2326.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629411,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629411/suppl/GSM2629411_AB2327.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629412,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629412/suppl/GSM2629412_AB2328.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629413,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629413/suppl/GSM2629413_AB2329.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629414,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629414/suppl/GSM2629414_AB2330.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629415,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629415/suppl/GSM2629415_AB2331.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629416,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629416/suppl/GSM2629416_AB2332.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629417,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629417/suppl/GSM2629417_AB2333.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629418,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629418/suppl/GSM2629418_AB2334.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629419,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629419/suppl/GSM2629419_AB2335.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629420,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629420/suppl/GSM2629420_AB2336.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629421,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629421/suppl/GSM2629421_AB2337.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629422,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629422/suppl/GSM2629422_AB2338.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629423,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629423/suppl/GSM2629423_AB2339.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629424,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629424/suppl/GSM2629424_AB2340.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629425,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629425/suppl/GSM2629425_AB2341.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629426,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629426/suppl/GSM2629426_AB2342.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629427,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629427/suppl/GSM2629427_AB2343.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629428,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629428/suppl/GSM2629428_AB2344.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629429,Whole brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629429/suppl/GSM2629429_AB2345.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629430,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629430/suppl/GSM2629430_AB2425.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629431,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629431/suppl/GSM2629431_AB2426.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629432,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629432/suppl/GSM2629432_AB2427.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629433,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629433/suppl/GSM2629433_AB2428.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629434,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629434/suppl/GSM2629434_AB2429.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629435,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629435/suppl/GSM2629435_AB2430.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629436,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629436/suppl/GSM2629436_AB2431.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629437,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629437/suppl/GSM2629437_AB2432.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629438,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629438/suppl/GSM2629438_AB2433.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629439,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629439/suppl/GSM2629439_AB2434.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629440,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629440/suppl/GSM2629440_AB2435.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629441,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629441/suppl/GSM2629441_AB2436.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629442,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629442/suppl/GSM2629442_AB2437.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629443,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629443/suppl/GSM2629443_AB2438.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629444,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629444/suppl/GSM2629444_AB2439.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629445,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629445/suppl/GSM2629445_AB2440.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629446,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629446/suppl/GSM2629446_AB2441.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629447,Cortex,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629447/suppl/GSM2629447_AB2442.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629448,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629448/suppl/GSM2629448_AB2443.txt.gz,Brain,Alzheimer's disease,6 months
+GSE98969,GSM2629449,Cerebellum,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2629nnn/GSM2629449/suppl/GSM2629449_AB2444.txt.gz,Brain,Alzheimer's disease,6 months

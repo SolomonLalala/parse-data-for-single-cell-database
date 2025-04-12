@@ -1,0 +1,6 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,supplementary_file_2,tissue,development_stage,age
+GSE185277,GSM5609934,human hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5609nnn/GSM5609934/suppl/GSM5609934_sample1_humanHippocampus_1_lib1.dge.txt.gz,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5609nnn/GSM5609934/suppl/GSM5609934_sample1_humanHippocampus_1_lib2.dge.txt.gz,hippocampus,Infant,0.1 Yr
+GSE185277,GSM5610939,human hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5610nnn/GSM5610939/suppl/GSM5610939_GEO_Sample9_seq1BC79_S4.txt.gz,,human hippocampus,Adolescent,13 Yrs
+GSE185277,GSM5610940,human hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5610nnn/GSM5610940/suppl/GSM5610940_GEO_sample13_HCT15HBW_seq12BC82_S7.deg.txt.gz,,human hippocampus,Adult,40 Yrs
+GSE185277,GSM5610941,human hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5610nnn/GSM5610941/suppl/GSM5610941_sample15_BC80_S5.deg.txt.gz,,human hippocampus,Adult,50.2 Yrs
+GSE185277,GSM5610942,human hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5610nnn/GSM5610942/suppl/GSM5610942_Sample20_1.txt.gz,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5610nnn/GSM5610942/suppl/GSM5610942_sample20_2.txt.gz,human hippocampus,Aging,89 Yrs

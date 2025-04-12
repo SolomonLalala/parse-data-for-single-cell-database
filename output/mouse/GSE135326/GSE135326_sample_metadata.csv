@@ -1,0 +1,5 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,brain_region
+GSE135326,GSM4005492,medial prefrontal cortex (mPFC),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4005nnn/GSM4005492/suppl/GSM4005492_Artis_A3_raw_feature_bc_matrix.h5,adult,medial prefrontal cortex
+GSE135326,GSM4005493,medial prefrontal cortex (mPFC),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4005nnn/GSM4005493/suppl/GSM4005493_Artis_A4_raw_feature_bc_matrix.h5,adult,medial prefrontal cortex
+GSE135326,GSM4005494,medial prefrontal cortex (mPFC),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4005nnn/GSM4005494/suppl/GSM4005494_Artis_B3_raw_feature_bc_matrix.h5,adult,medial prefrontal cortex
+GSE135326,GSM4005495,medial prefrontal cortex (mPFC),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4005nnn/GSM4005495/suppl/GSM4005495_Artis_B4_raw_feature_bc_matrix.h5,adult,medial prefrontal cortex

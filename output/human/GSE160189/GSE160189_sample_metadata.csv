@@ -1,0 +1,11 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age_(yr),sex
+GSE160189,GSM4862171,Donor1,Homo sapiens,NONE,Anterior hippocampus,26,Female
+GSE160189,GSM4862172,Donor2,Homo sapiens,NONE,Anterior hippocampus,60,Female
+GSE160189,GSM4862173,Donor3,Homo sapiens,NONE,Anterior hippocampus,44,Male
+GSE160189,GSM4862174,Donor4,Homo sapiens,NONE,Anterior hippocampus,24,Male
+GSE160189,GSM4862175,Donor5,Homo sapiens,NONE,Anterior hippocampus,37,Female
+GSE160189,GSM4862176,Donor1,Homo sapiens,NONE,Posterior hippocampus,26,Female
+GSE160189,GSM4862177,Donor2,Homo sapiens,NONE,Posterior hippocampus,60,Female
+GSE160189,GSM4862178,Donor3,Homo sapiens,NONE,Posterior hippocampus,44,Male
+GSE160189,GSM4862179,Donor4,Homo sapiens,NONE,Posterior hippocampus,24,Male
+GSE160189,GSM4862180,Donor5,Homo sapiens,NONE,Posterior hippocampus,37,Female

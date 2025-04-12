@@ -1,0 +1,12 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue
+GSE131258,GSM3360833,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3360834,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3360835,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3360836,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3360837,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3360838,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3768167,human embryonic hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3768nnn/GSM3768167/suppl/GSM3768167_ATAC-HP1.bw,hippocampus
+GSE131258,GSM3768168,human embryonic hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3768nnn/GSM3768168/suppl/GSM3768168_ATAC-HP2.bw,hippocampus
+GSE131258,GSM3768169,human embryonic hippocampus,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3768nnn/GSM3768169/suppl/GSM3768169_ATAC-HP3.bw,hippocampus
+GSE131258,GSM3770749,human embryonic hippocampus,Homo sapiens,NONE,hippocampus
+GSE131258,GSM3770750,human embryonic hippocampus,Homo sapiens,NONE,hippocampus

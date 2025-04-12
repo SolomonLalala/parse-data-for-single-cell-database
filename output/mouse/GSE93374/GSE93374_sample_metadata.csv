@@ -1,0 +1,12 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,sex,average_age,experimental_condition
+GSE93374,GSM2452122,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,34,Ad lib fed chow diet
+GSE93374,GSM2452123,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,28,Ad lib fed chow diet
+GSE93374,GSM2452124,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,30,Ad lib fed chow diet
+GSE93374,GSM2452125,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,47,Ad lib fed 10% Low fat diet
+GSE93374,GSM2452126,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,47,Ad lib fed 60% High fat diet
+GSE93374,GSM2452127,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M and F,64,24 hour fast
+GSE93374,GSM2452128,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M and F,75,24 hour fast + 2 hour refeeding
+GSE93374,GSM2452129,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,59,Ad lib fed chow diet
+GSE93374,GSM2452130,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,M,59,24 hour fast
+GSE93374,GSM2452131,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,F,59,Ad lib fed chow diet
+GSE93374,GSM2452132,Arcuate Nucleus/Median Eminence,Mus musculus,NONE,Arcuate-Median Eminence,F,59,24 hour fast

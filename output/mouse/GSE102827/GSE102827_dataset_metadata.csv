@@ -1,0 +1,7 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE102827,Single-Cell Analysis of Sensory Experience Regulated Gene Expression in Mouse Visual Cortex,Single-cell (inDrops) analysis of primary visual cortex in visually stimulated mice,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102827,"29230054
+30089906",6-8 week old C57BL6/J mice were dark-reared for 7 days and exposed to light for 1h or 4h. Control mice were kept in the dark. V1 was dissected and single cell RNASeq performed.,GSM2746895 GSM2746896 GSM2746897 GSM2746898 GSM2746899 GSM2746900 GSM2746901 GSM2746902 GSM2746903 GSM2746904 GSM2746905 GSM2746906 GSM2746907 GSM2746908 GSM2746909 GSM2746910 GSM2746911 GSM2746912 GSM2746913 GSM2746914 GSM2746915 GSM2746916 GSM2746917 GSM2746918 GSM2746919 GSM2746920 GSM2746921 GSM2746922 GSM2816595 GSM2816596 GSM2816597 GSM2816598 GSM2816599 GSM2816600 GSM2816601 GSM2816602 GSM2816603 GSM2816604 GSM2816605 GSM2816606 ,Public on Dec 11 2017,Single-cell (inDrops) analysis of primary visual cortex in visually stimulated mice,"ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102827/suppl/GSE102827_MATRIX.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102827/suppl/GSE102827_RAW.tar
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102827/suppl/GSE102827_TMM_norm_cpm_bulk.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102827/suppl/GSE102827_cell_type_assignments.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102827/suppl/GSE102827_merged_all_raw.csv.gz"

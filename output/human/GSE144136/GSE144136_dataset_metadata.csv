@@ -1,0 +1,28 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE144136,Single-nucleus RNA-seq in the post-mortem brain in major depressive disorder,We performed high-throughput snRNA-seq using the 10X Genomics Chromium platform on archived post-mortem dorsolateral prefrontal cortex (BA9) tissue in MDD subjects who died by suicide and in control subjects to identify cell-type specific differentially expressed genes.,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144136,"32341540
+33602921",10X Genomics Chromium snRNA-seq was performed on nuclei extracted from BA9 of the post-mortem brain tissue of 17 control subjects and 17 MDD cases who died by suicide. All subjects were male. Cell-types were identified by unsupervised clustering and diffrential gene expression was performed between cases and controls for each cell-type cluster. The library preparation was performed with the Chromium Singel Cell 3<e2><80><99> Reagent Kits v2. Paired-end sequencing was performed on the HiSeq Illumina 4000. FastQ files were produced with Cellranger v2.1.0 mkfastq. Alignments and gene counts were generated with Cellranger v2.1.0 count.,GSM4281974 GSM4281975 GSM4281976 GSM4281977 GSM4281978 GSM4281979 GSM4281980 GSM4281981 GSM4281982 GSM4281983 GSM4281984 GSM4281985 GSM4281986 GSM4281987 GSM4281988 GSM4281989 GSM4281990 GSM4281991 GSM4281992 GSM4281993 GSM4281994 GSM4281995 GSM4281996 GSM4281997 GSM4281998 GSM4281999 GSM4282000 GSM4282001 GSM4282002 GSM4282003 GSM4282004 GSM4282005 GSM4282006 GSM4282007 ,Public on Feb 25 2020,We performed high-throughput snRNA-seq using the 10X Genomics Chromium platform on archived post-mortem dorsolateral prefrontal cortex (BA9) tissue in MDD subjects who died by suicide and in control subjects to identify cell-type specific differentially expressed genes.,"ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Astros_3_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_CellNames.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_10_L2_4_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_1_L5_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_3_L4_5_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_4_L_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_5_L5_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_6_L4_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_7_L4_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_8_L5_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Ex_9_L5_6_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_GRCh38-1.2.0_premrna.tar.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_GeneBarcodeMatrix_Annotated.mtx.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_GeneNames.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_1_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_2_VIP_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_3_SST_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_5_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_6_SST_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_7_PVALB_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Inhib_8_PVALB_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Micro_Macro_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_OPCs_1_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_OPCs_2_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Oligos_1_filtered_cells.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144136/suppl/GSE144136_Oligos_3_filtered_cells.csv.gz"

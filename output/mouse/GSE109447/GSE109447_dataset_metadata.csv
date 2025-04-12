@@ -1,0 +1,11 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE109447,Single-cell gene expression data from Ventricular-Subventricular Zone (V-SVZ) cells,"We performed large-scale single cell profiling of V-SVZ cells, following separate dissections of the lateral and septal walls of 8-10 week old male and female mice.",https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109447,30625322,"Using an automated microwell array platform and commercially available mRNA capture beads, we generated single-cell RNA-seq profiles of dissociated V-SVZ cells without any prior cell sorting or filtering.
+
+The rows of each of the *Basic.txt files annotate the cell type for each cell in each of the two corresponding single-cell gene expression matrix files.",GSM2943125 GSM2943126 GSM2943127 GSM2943128 GSM3310464 GSM3310465 GSM3310466 GSM3310467 ,Public on Jan 01 2019,"We performed large-scale single cell profiling of V-SVZ cells, following separate dissections of the lateral and septal walls of 8-10 week old male and female mice.","ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_13055_Cell_Barcodes.xlsx
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_13055_cells_id.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_13055_cells_matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_29319_Cell_Barcodes.xlsx
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_29319_cells.matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_29319_cells_id_repinfo.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_Rep1_29319cells_Basic.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109447/suppl/GSE109447_Rep2_13055cells_Basic.txt.gz"

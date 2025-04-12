@@ -1,0 +1,15 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE134918,"Single-cell RNA sequencing (scRNAseq) data from Ventricular-Subventricular Zone (V-SVZ) and Olfactory Bulb (OB) cells, and Scope-Seq data from Ventricular-Subventricular Zone (V-SVZ)","We performed large-scale single cell profiling of dissociated V-SVZ and OB cells from the same animal carrying either the hGFAP::CreERT2; Rosa26LSL-TdTomato (GCERT2) reporter, or ratNes::FLPOER; Rosa26FSF-TdTomato (NesFLPO) reporter. Scope-Seq profiling was performed on dissociated V-SVZ cells from C57BL/6J animals.",https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134918,32579931,"Using automated microwell array platforms and mRNA capture beads, we generated single-cell RNA-seq profiles of dissociated V-SVZ and OB cells without any prior cell sorting.",GSM3978868 GSM3978869 GSM3978870 GSM3978871 GSM3978872 GSM3978873 GSM3978874 GSM3978875 GSM3978876 GSM3978877 GSM3978878 GSM3978879 GSM3978880 ,Public on Jun 21 2020,"We performed large-scale single cell profiling of dissociated V-SVZ and OB cells from the same animal carrying either the hGFAP::CreERT2; Rosa26LSL-TdTomato (GCERT2) reporter, or ratNes::FLPOER; Rosa26FSF-TdTomato (NesFLPO) reporter. Scope-Seq profiling was performed on dissociated V-SVZ cells from C57BL/6J animals.","ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBGCE_cell.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBGCE_cell_barcodes.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBGCE_matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBNESFLPO_cell.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBNESFLPO_cell_barcodes.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_OBNESFLPO_matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZGCE_cell.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZGCE_cell_barcodes.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZGCE_matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZNESFLPO_cell.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZNESFLPO_cell_barcodes.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_SVZNESFLPO_matrix.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_scope_cell.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134918/suppl/GSE134918_scope_matrix.txt.gz"

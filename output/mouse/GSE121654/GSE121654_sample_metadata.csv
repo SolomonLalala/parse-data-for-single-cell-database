@@ -1,0 +1,48 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,sex,brain_region
+GSE121654,GSM3442006,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442006/suppl/GSM3442006_E14_F_B10.dge.txt.gz,E14.5,Female,Whole Brain
+GSE121654,GSM3442007,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442007/suppl/GSM3442007_E14_M_B11.dge.txt.gz,E14.5,Male,Whole Brain
+GSE121654,GSM3442008,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442008/suppl/GSM3442008_E14_F_B12.dge.txt.gz,E14.5,Female,Whole Brain
+GSE121654,GSM3442009,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442009/suppl/GSM3442009_E14_F_C1.dge.txt.gz,E14.5,Female,Whole Brain
+GSE121654,GSM3442010,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442010/suppl/GSM3442010_E14_M_B9.dge.txt.gz,E14.5,Male,Whole Brain
+GSE121654,GSM3442011,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442011/suppl/GSM3442011_E14_F_B6.dge.txt.gz,E14.5,Female,Whole Brain
+GSE121654,GSM3442012,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442012/suppl/GSM3442012_E14_M_B7.dge.txt.gz,E14.5,Male,Whole Brain
+GSE121654,GSM3442013,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442013/suppl/GSM3442013_E14_M_B8.dge.txt.gz,E14.5,Male,Whole Brain
+GSE121654,GSM3442014,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442014/suppl/GSM3442014_P5_M_A1.dge.txt.gz,P5,Male,Whole Brain
+GSE121654,GSM3442015,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442015/suppl/GSM3442015_P5_F_A2.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442016,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442016/suppl/GSM3442016_P4_M_A4.dge.txt.gz,P4,Male,Whole Brain
+GSE121654,GSM3442017,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442017/suppl/GSM3442017_P4_M_A5.dge.txt.gz,P4,Male,Whole Brain
+GSE121654,GSM3442018,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442018/suppl/GSM3442018_P4_F_A6.dge.txt.gz,P4,Female,Whole Brain
+GSE121654,GSM3442019,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442019/suppl/GSM3442019_P4_F_B3.dge.txt.gz,P4,Female,Whole Brain
+GSE121654,GSM3442020,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442020/suppl/GSM3442020_P4_F_B4.dge.txt.gz,P4,Female,Whole Brain
+GSE121654,GSM3442021,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442021/suppl/GSM3442021_P4_M_B5.dge.txt.gz,P4,Male,Whole Brain
+GSE121654,GSM3442022,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442022/suppl/GSM3442022_P30_Male_1.dge.txt.gz,P30,Male,Whole Brain
+GSE121654,GSM3442023,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442023/suppl/GSM3442023_P30_Male_2.dge.txt.gz,P30,Male,Whole Brain
+GSE121654,GSM3442024,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442024/suppl/GSM3442024_P30_male_3.dge.txt.gz,P30,Male,Whole Brain
+GSE121654,GSM3442025,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442025/suppl/GSM3442025_P30_male_4.dge.txt.gz,P30,Male,Whole Brain
+GSE121654,GSM3442026,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442026/suppl/GSM3442026_P100_Male_1.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442027,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442027/suppl/GSM3442027_P100_Male_2.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442028,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442028/suppl/GSM3442028_P100_female_1.dge.txt.gz,P100,Female,Whole Brain
+GSE121654,GSM3442029,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442029/suppl/GSM3442029_P100_female_2.dge.txt.gz,P100,Female,Whole Brain
+GSE121654,GSM3442030,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442030/suppl/GSM3442030_P100_male_3.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442031,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442031/suppl/GSM3442031_P100_male_4.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442032,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442032/suppl/GSM3442032_P100_female_3.dge.txt.gz,P100,Female,Whole Brain
+GSE121654,GSM3442033,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442033/suppl/GSM3442033_P100_female_4.dge.txt.gz,P100,Female,Whole Brain
+GSE121654,GSM3442034,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442034/suppl/GSM3442034_Old_male_1.dge.txt.gz,P540,Male,Whole Brain
+GSE121654,GSM3442035,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442035/suppl/GSM3442035_Old_male_2.dge.txt.gz,P540,Male,Whole Brain
+GSE121654,GSM3442036,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442036/suppl/GSM3442036_Old_male_3.dge.txt.gz,P540,Male,Whole Brain
+GSE121654,GSM3442037,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442037/suppl/GSM3442037_Old_male_4.dge.txt.gz,P540,Male,Whole Brain
+GSE121654,GSM3442038,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442038/suppl/GSM3442038_P100_M_A1.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442039,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442039/suppl/GSM3442039_P100_M_A2.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442040,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442040/suppl/GSM3442040_P100_M_B5.dge.txt.gz,P100,Male,Whole Brain
+GSE121654,GSM3442041,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442041/suppl/GSM3442041_P100_M_SALINE_A3.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442042,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442042/suppl/GSM3442042_P100_M_SALINE_A5.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442043,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442043/suppl/GSM3442043_P100_M_SALINE_B9.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442044,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442044/suppl/GSM3442044_P100_M_LPC_A4.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442045,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442045/suppl/GSM3442045_P100_M_LPC_A6.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442046,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442046/suppl/GSM3442046_P100_M_LPC_B10.dge.txt.gz,P100,Male,Subcortical White Matter
+GSE121654,GSM3442047,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442047/suppl/GSM3442047_P5_female_nopercoll_1.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442048,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442048/suppl/GSM3442048_P5_female_nopercoll_2.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442049,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442049/suppl/GSM3442049_P5_female_nopercoll_3.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442050,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442050/suppl/GSM3442050_P5_female_percoll_1.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442051,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442051/suppl/GSM3442051_P5_female_percoll_2.dge.txt.gz,P5,Female,Whole Brain
+GSE121654,GSM3442052,brain,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3442nnn/GSM3442052/suppl/GSM3442052_P5_female_percoll_3.dge.txt.gz,P5,Female,Whole Brain

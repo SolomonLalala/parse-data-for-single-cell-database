@@ -1,0 +1,17 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age
+GSE129788,GSM3722100,10x of dissociated mouse brain - young 1,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722100/suppl/GSM3722100_YX1L_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722101,10x of dissociated mouse brain - young 2,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722101/suppl/GSM3722101_YX2L_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722102,10x of dissociated mouse brain - young 3,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722102/suppl/GSM3722102_YX3R_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722103,10x of dissociated mouse brain - young 4,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722103/suppl/GSM3722103_YX4R_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722104,10x of dissociated mouse brain - young 5,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722104/suppl/GSM3722104_YX5R_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722105,10x of dissociated mouse brain - young 6,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722105/suppl/GSM3722105_YX6L_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722106,10x of dissociated mouse brain - young 7,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722106/suppl/GSM3722106_YX7R_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722107,10x of dissociated mouse brain - young 8,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722107/suppl/GSM3722107_YX8L_10X.txt.gz,brain,2-3 months
+GSE129788,GSM3722108,10x of dissociated mouse brain - old 8,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722108/suppl/GSM3722108_OX1X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722109,10x of dissociated mouse brain - old 9,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722109/suppl/GSM3722109_OX2X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722110,10x of dissociated mouse brain - old 10,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722110/suppl/GSM3722110_OX3X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722111,10x of dissociated mouse brain - old 11,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722111/suppl/GSM3722111_OX4X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722112,10x of dissociated mouse brain - old 12,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722112/suppl/GSM3722112_OX5X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722113,10x of dissociated mouse brain - old 13,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722113/suppl/GSM3722113_OX6X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722114,10x of dissociated mouse brain - old 14,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722114/suppl/GSM3722114_OX7X_10X.txt.gz,brain,21-22 months
+GSE129788,GSM3722115,10x of dissociated mouse brain - old 15,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3722nnn/GSM3722115/suppl/GSM3722115_OX8X_10X.txt.gz,brain,21-22 months

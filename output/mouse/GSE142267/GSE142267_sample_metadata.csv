@@ -1,0 +1,11 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age
+GSE142267,GSM4224436,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224436/suppl/GSM4224436_TG1-APP-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224437,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224437/suppl/GSM4224437_TG2-TAU-4M_mm38.pkl.gz,4M
+GSE142267,GSM4224438,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224438/suppl/GSM4224438_TG31-TAU-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224439,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224439/suppl/GSM4224439_TG32-TAU-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224440,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224440/suppl/GSM4224440_TG4-APP-4M_mm38.pkl.gz,4M
+GSE142267,GSM4224441,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224441/suppl/GSM4224441_WT1-APP-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224442,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224442/suppl/GSM4224442_WT2-TAU-4M_mm38.pkl.gz,4M
+GSE142267,GSM4224443,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224443/suppl/GSM4224443_WT31-TAU-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224444,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224444/suppl/GSM4224444_WT32-TAU-11M_mm38.pkl.gz,11M
+GSE142267,GSM4224445,hippocampus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4224nnn/GSM4224445/suppl/GSM4224445_WT4-APP-4M_mm38.pkl.gz,4M

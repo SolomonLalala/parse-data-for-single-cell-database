@@ -1,0 +1,2 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,supplementary_file_2,supplementary_file_3,age,tissue
+GSE132608,GSM3880020,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3880nnn/GSM3880020/suppl/GSM3880020_barcodes.tsv.gz,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3880nnn/GSM3880020/suppl/GSM3880020_features.tsv.gz,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3880nnn/GSM3880020/suppl/GSM3880020_matrix.mtx.gz,8 weeks,suprachiasmatic nucleus

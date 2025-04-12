@@ -1,0 +1,4 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,developmental_stage,tissue
+GSE122357,GSM3464549,Total cerebellum cell,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3464nnn/GSM3464549/suppl/GSM3464549_P0.csv.gz,postnatal day 0,cerebellum
+GSE122357,GSM3464550,Total cerebellum cell,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3464nnn/GSM3464550/suppl/GSM3464550_P8a.csv.gz,postnatal day 8,cerebellum
+GSE122357,GSM3464551,Total cerebellum cell,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3464nnn/GSM3464551/suppl/GSM3464551_P8b.csv.gz,postnatal day 8,cerebellum

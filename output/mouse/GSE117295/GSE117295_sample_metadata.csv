@@ -1,0 +1,14 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age
+GSE117295,GSM3290582,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290582/suppl/GSM3290582_CT14.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290583,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290583/suppl/GSM3290583_CT18.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290584,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290584/suppl/GSM3290584_CT22.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290585,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290585/suppl/GSM3290585_CT26.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290586,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290586/suppl/GSM3290586_CT30.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290587,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290587/suppl/GSM3290587_CT34.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290588,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290588/suppl/GSM3290588_CT38.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290589,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290589/suppl/GSM3290589_CT42.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290590,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290590/suppl/GSM3290590_CT46.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290591,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290591/suppl/GSM3290591_CT50.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290592,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290592/suppl/GSM3290592_CT54.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290593,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290593/suppl/GSM3290593_CT58.csv.gz,suprachiasmatic nucleus,8 weeks
+GSE117295,GSM3290594,suprachiasmatic nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3290nnn/GSM3290594/suppl/GSM3290594_flash.csv.gz,suprachiasmatic nucleus,8 weeks

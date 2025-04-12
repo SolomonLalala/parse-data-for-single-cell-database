@@ -1,0 +1,12 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,sample_type,organoid_generation
+GSE193884,GSM5823082,glioblastoma,Homo sapiens,NONE,organoid,gen1
+GSE193884,GSM5823083,glioblastoma,Homo sapiens,NONE,organoid,gen2
+GSE193884,GSM5823084,glioblastoma,Homo sapiens,NONE,organoid,gen1
+GSE193884,GSM5823085,glioblastoma,Homo sapiens,NONE,organoid,gen2
+GSE193884,GSM5823086,glioblastoma,Homo sapiens,NONE,organoid,gen3
+GSE193884,GSM5823087,glioblastoma,Homo sapiens,NONE,organoid,gen1
+GSE193884,GSM5823088,glioblastoma,Homo sapiens,NONE,organoid,gen2
+GSE193884,GSM5823089,glioblastoma,Homo sapiens,NONE,organoid,gen3
+GSE193884,GSM5823090,glioblastoma,Homo sapiens,NONE,organoid,gen1
+GSE193884,GSM5823091,glioblastoma,Homo sapiens,NONE,organoid,gen2
+GSE193884,GSM5823092,glioblastoma,Homo sapiens,NONE,organoid,gen3

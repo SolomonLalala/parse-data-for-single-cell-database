@@ -1,0 +1,9 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,age,gender
+GSE103224,GSM2758471,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758471/suppl/GSM2758471_PJ016.filtered.matrix.txt.gz,49,Female
+GSE103224,GSM2758472,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758472/suppl/GSM2758472_PJ017.filtered.matrix.txt.gz,62,Male
+GSE103224,GSM2758473,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758473/suppl/GSM2758473_PJ018.filtered.matrix.txt.gz,65,Male
+GSE103224,GSM2758474,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758474/suppl/GSM2758474_PJ025.filtered.matrix.txt.gz,74,Male
+GSE103224,GSM2758475,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758475/suppl/GSM2758475_PJ030.filtered.matrix.txt.gz,56,Female
+GSE103224,GSM2758476,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758476/suppl/GSM2758476_PJ032.filtered.matrix.txt.gz,63,Female
+GSE103224,GSM2758477,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2758nnn/GSM2758477/suppl/GSM2758477_PJ035.filtered.matrix.txt.gz,50,Male
+GSE103224,GSM2940098,High grade glioma tissue,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2940nnn/GSM2940098/suppl/GSM2940098_PJ048.filtered.matrix.txt.gz,59,Male

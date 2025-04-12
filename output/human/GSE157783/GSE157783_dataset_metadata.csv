@@ -1,0 +1,6 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE157783,Single cell atlas of the human midbrain reveals cell state specific to Parkinson<e2><80><99>s disease,"Using single-nucleus RNA sequencing, we profiled postmortem midbrain tissue from Idiopathic Parkinson<e2><80><99>s Disease patients and matched controls.",https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157783,"34805149
+34919646
+37386035",Single-cell transcriptomics of postmortem midbrain of six control and five idiopathic Parkinson's disease cases,GSM4774931 GSM4774932 GSM4774933 GSM4774934 GSM4774935 GSM4774936 GSM4774937 GSM4774938 GSM4774939 GSM4774940 GSM4774941 ,Public on Sep 17 2020,"Using single-nucleus RNA sequencing, we profiled postmortem midbrain tissue from Idiopathic Parkinson<e2><80><99>s Disease patients and matched controls.","ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE157nnn/GSE157783/suppl/GSE157783_IPDCO_hg_midbrain_UMI.tar.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE157nnn/GSE157783/suppl/GSE157783_IPDCO_hg_midbrain_cell.tar.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE157nnn/GSE157783/suppl/GSE157783_IPDCO_hg_midbrain_genes.tar.gz"

@@ -1,0 +1,4 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE115600,Quiescence modulates stem cell maintenance and regenerative capacity in the aging brain <e2><80><93> 10X Chromium,Single cell RNA-seq of neural stem cells from young and old mice,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE115600,30827680,Single cell RNA-seq of neural stem cells from young and old mice,GSM3184686 GSM3184687 ,Public on Feb 28 2019,Single cell RNA-seq of neural stem cells from young and old mice,"ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115600/suppl/GSE115600_barcodes.tsv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115600/suppl/GSE115600_genes.tsv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE115nnn/GSE115600/suppl/GSE115600_matrix.mtx.gz"

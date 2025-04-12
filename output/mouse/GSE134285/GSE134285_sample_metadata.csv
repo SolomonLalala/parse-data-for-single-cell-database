@@ -1,0 +1,19 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,cell_type,1_brain_or_pooled,genotype/variation
+GSE134285,GSM3929518,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM3929519,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM3929520,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM3941409,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM3941410,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM3941411,brain cells and metastatic tumor cells,Mus musculus,NONE,brain cells and metastatic tumor cells,NA,NA
+GSE134285,GSM4150648,peripheral blood cells and brain immune cells,Mus musculus,NONE,NA,1 brain hemisphere or whole blood,NA
+GSE134285,GSM4150649,peripheral blood cells and brain immune cells,Mus musculus,NONE,NA,1 brain hemisphere or whole blood,NA
+GSE134285,GSM4150650,peripheral blood cells and brain immune cells,Mus musculus,NONE,NA,1 brain hemisphere or whole blood,NA
+GSE134285,GSM4150651,brain immune cells,Mus musculus,NONE,NA,NA,Cx3cr1+/-; Cx3cr1-/-
+GSE134285,GSM4150652,brain immune cells,Mus musculus,NONE,NA,NA,Cx3cr1+/-; Cx3cr1-/-
+GSE134285,GSM4150653,brain immune cells,Mus musculus,NONE,NA,NA,Cx3cr1+/-; Cx3cr1-/-
+GSE134285,GSM4150654,brain immune cells or peripherial blood cells,Mus musculus,NONE,NA,NA,Cx3cr1CreERT or Cx3cr1CreERT-ROSA-iDTR
+GSE134285,GSM4150655,brain immune cells or peripherial blood cells,Mus musculus,NONE,NA,NA,Cx3cr1CreERT or Cx3cr1CreERT-ROSA-iDTR
+GSE134285,GSM4150656,brain immune cells or peripherial blood cells,Mus musculus,NONE,NA,NA,Cx3cr1CreERT or Cx3cr1CreERT-ROSA-iDTR
+GSE134285,GSM4803249,brain immune cells,Mus musculus,NONE,NA,1 brain hemisphere per biological sample,NA
+GSE134285,GSM4803250,brain immune cells,Mus musculus,NONE,NA,2 brain hemisphere per biological sample,NA
+GSE134285,GSM4803251,brain immune cells,Mus musculus,NONE,NA,3 brain hemisphere per biological sample,NA

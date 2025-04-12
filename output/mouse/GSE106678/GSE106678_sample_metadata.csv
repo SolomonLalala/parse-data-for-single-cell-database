@@ -1,0 +1,20 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age_(approx)
+GSE106678,GSM2845359,NIH3T3 (cell),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845359/suppl/GSM2845359_cell-3T3_gene_exonic.intronic_tagged.dge.txt.gz,cultured NIH3T3 cells,n.a.
+GSE106678,GSM2845360,NIH3T3 (nuclei),Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845360/suppl/GSM2845360_nuclei-3T3_gene_exonic.intronic_tagged.dge.txt.gz,cultured NIH3T3 cells,n.a.
+GSE106678,GSM2845361,Animal #1,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845361/suppl/GSM2845361_nuclei-ctx-1_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845362,Animal #2,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845362/suppl/GSM2845362_nuclei-ctx-2_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845363,Animal #3,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845363/suppl/GSM2845363_nuclei-ctx-3_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845364,Animal #4,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845364/suppl/GSM2845364_nuclei-ctx-4_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845365,Animal #5,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845365/suppl/GSM2845365_nuclei-ctx-5_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845366,Animal #6,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845366/suppl/GSM2845366_nuclei-ctx-6_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845367,Animal #7,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845367/suppl/GSM2845367_nuclei-ctx-7_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845368,Animal #8,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845368/suppl/GSM2845368_nuclei-ctx-8_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845369,Animal #9,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845369/suppl/GSM2845369_nuclei-ctx-9_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845370,Animal #10,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845370/suppl/GSM2845370_nuclei-ctx-10_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845371,Animal #11,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845371/suppl/GSM2845371_nuclei-ctx-11_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845372,Animal #12,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845372/suppl/GSM2845372_nuclei-ctx-12_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845373,Animal #13,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845373/suppl/GSM2845373_nuclei-ctx-13_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex,6-10 weeks
+GSE106678,GSM2845374,Animal #14,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845374/suppl/GSM2845374_nuclei-ctx-saline1_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex + striatum,8 weeks
+GSE106678,GSM2845375,Animal #15,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845375/suppl/GSM2845375_nuclei-ctx-PTZ1_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex + striatum,8 weeks
+GSE106678,GSM2845376,Animal #16,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845376/suppl/GSM2845376_nuclei-ctx-saline2_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex + striatum,8 weeks
+GSE106678,GSM2845377,Animal #17,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2845nnn/GSM2845377/suppl/GSM2845377_nuclei-ctx-PTZ2_gene_exonic.intronic_tagged.dge.txt.gz,whole cortex + striatum,8 weeks

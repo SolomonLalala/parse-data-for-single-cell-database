@@ -1,0 +1,9 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age
+GSE132730,GSM3890934,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890934/suppl/GSM3890934_Hypothalamus_traject_E15_srt_annotated_wo_blood.rds.gz,Hypothalamus,E15
+GSE132730,GSM3890935,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890935/suppl/GSM3890935_Hypothalamus_traject_E17_srt_annotated_wo_blood.rds.gz,Hypothalamus,E17
+GSE132730,GSM3890936,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890936/suppl/GSM3890936_Hypothalamus_traject_P0_srt_annotated_wo_blood.rds.gz,Hypothalamus,P00
+GSE132730,GSM3890937,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890937/suppl/GSM3890937_Hypothalamus_traject_P2_srt_annotated_wo_blood.rds.gz,Hypothalamus,P02
+GSE132730,GSM3890938,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890938/suppl/GSM3890938_Hypothalamus_traject_3P2_srt_annotated_wo_blood.rds.gz,Hypothalamus,P02
+GSE132730,GSM3890939,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890939/suppl/GSM3890939_Hypothalamus_traject_1P10_srt_annotated_wo_blood.rds.gz,Hypothalamus,P10
+GSE132730,GSM3890940,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890940/suppl/GSM3890940_Hypothalamus_traject_P10_srt_annotated_wo_blood.rds.gz,Hypothalamus,P10
+GSE132730,GSM3890941,Hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3890nnn/GSM3890941/suppl/GSM3890941_Hypothalamus_traject_P23_srt_annotated_wo_blood.rds.gz,Hypothalamus,P23

@@ -1,0 +1,26 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE256493,"Single-cell atlas of the human brain vasculature across development, adulthood and disease",This SuperSeries is composed of the SubSeries listed below.,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE256493,38987604,Refer to individual Series,GSM8101522 GSM8101523 GSM8101524 GSM8101525 GSM8101526 GSM8101527 GSM8101528 GSM8101529 GSM8101530 GSM8101531 GSM8101532 GSM8101533 GSM8101534 GSM8101535 GSM8101536 GSM8101537 GSM8101538 GSM8101539 GSM8101540 GSM8101541 GSM8101542 GSM8101543 GSM8101544 GSM8101545 GSM8101546 GSM8101547 GSM8101548 GSM8101549 GSM8101550 GSM8101551 GSM8101552 GSM8101553 GSM8101554 GSM8101555 GSM8101556 GSM8101557 GSM8101558 GSM8101559 GSM8101560 GSM8101561 GSM8101562 GSM8101563 GSM8101564 GSM8101565 GSM8101566 GSM8101567 GSM8101568 GSM8101569 GSM8101570 GSM8101571 GSM8101572 GSM8101573 GSM8101574 GSM8101575 GSM8101576 GSM8101577 GSM8101578 GSM8101579 GSM8101580 GSM8101581 GSM8101582 GSM8101583 GSM8101584 GSM8101585 GSM8101586 GSM8101587 GSM8101588 GSM8101589 GSM8101590 GSM8101591 GSM8101592 GSM8101593 GSM8101594 GSM8101595 GSM8101596 GSM8101597 GSM8101598 GSM8101599 GSM8101600 GSM8101601 GSM8101602 GSM8101603 GSM8101604 GSM8101605 GSM8101606 GSM8101607 GSM8101608 GSM8101609 GSM8101610 GSM8101611 GSM8101612 GSM8101613 GSM8101614 GSM8101615 GSM8101616 GSM8101617 GSM8101618 GSM8101619 GSM8101620 GSM8101621 GSM8101622 GSM8101623 GSM8101624 GSM8101625 GSM8101626 GSM8101627 GSM8101628 GSM8101629 GSM8101630 GSM8101631 GSM8101632 GSM8101633 GSM8101634 GSM8101635 GSM8101636 GSM8101637 GSM8101638 GSM8101639 ,Public on Feb 29 2024,This SuperSeries is composed of the SubSeries listed below.,"ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Adult_control_brain_temporal_lobe_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Adult_control_brain_temporal_lobe_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Arteriovenous_malformations_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Arteriovenous_malformations_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Fetal_CNS_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Fetal_CNS_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Fetal_periphery_sorted_endothelial_cells_seurat_object_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Fetal_periphery_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Glioblastoma_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Glioblastoma_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Lower_grade_glioma_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Lower_grade_glioma_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Meningioma_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Meningioma_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Metastasis_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Metastasis_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_all_brain_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_all_brain_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_all_pathological_brain_unsorted_endothelial_and_perivascular_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_all_sorted_brain_and_peripehry_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_pathological_brain_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_Overall_merge_of_tumor_sorted_endothelial_cells_seurat_object.rds.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_RAW.tar
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_readme_rds_descriptions.txt
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256493/suppl/GSE256493_scRNAseq_seurat_objects.xlsx"

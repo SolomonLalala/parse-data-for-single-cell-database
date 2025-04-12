@@ -1,0 +1,23 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE146298,Enhancing WNT-Signaling Restores Cortical Neuronal Spine Maturation and Synaptogenesis in Tbr1 Mutants,"Tbr1 is a high confidence autism spectrum disorder (ASD) gene encoding a
+transcription factor with distinct pre- and postnatal functions.
+Postnatally, Tbr1 conditional mutants (CKOs) and constitutive heterozygotes have
+immature dendritic spines and reduced synaptic density. Tbr1 regulates expression of
+several genes that underlie synaptic defects, including a kinesin (Kif1a) and a WNT
+signaling ligand (Wnt7b). Furthermore, Tbr1 mutant corticothalamic neurons have
+reduced thalamic axonal arborization. LiCl and a GSK3b-inhibitor, two WNT-signaling
+agonists, robustly rescue the dendritic spines, synaptic and axonal defects, suggesting
+that this could have relevance for therapeutic approaches in some forms of ASD.",https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146298,32294447,Examination of TBR1 regulated genes in layer 5 FACS purified neurons from P5 mouse medial prefrontal cortex.,GSM4376958 GSM4376959 GSM4376960 ,Public on Mar 04 2020,"Tbr1 is a high confidence autism spectrum disorder (ASD) gene encoding a
+transcription factor with distinct pre- and postnatal functions.
+Postnatally, Tbr1 conditional mutants (CKOs) and constitutive heterozygotes have
+immature dendritic spines and reduced synaptic density. Tbr1 regulates expression of
+several genes that underlie synaptic defects, including a kinesin (Kif1a) and a WNT
+signaling ligand (Wnt7b). Furthermore, Tbr1 mutant corticothalamic neurons have
+reduced thalamic axonal arborization. LiCl and a GSK3b-inhibitor, two WNT-signaling
+agonists, robustly rescue the dendritic spines, synaptic and axonal defects, suggesting
+that this could have relevance for therapeutic approaches in some forms of ASD.","ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_RAW.tar
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_filtered_cells_metadata.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_filtered_cells_rawcounts.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_neuronal_cells_metadata.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_neuronal_cells_normcounts.csv.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146298/suppl/GSE146298_neuronal_cells_rawcounts.csv.gz"

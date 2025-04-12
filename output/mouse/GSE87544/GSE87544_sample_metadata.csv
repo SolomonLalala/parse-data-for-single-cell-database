@@ -1,0 +1,18 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue
+GSE87544,GSM2333577,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333577/suppl/GSM2333577_B0-normal1-_1-200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333578,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333578/suppl/GSM2333578_B0-normal2-_1-200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333579,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333579/suppl/GSM2333579_B1-FD-_1-300cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333580,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333580/suppl/GSM2333580_B1-FD-_2-1600cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333581,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333581/suppl/GSM2333581_B1-FD-_3-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333582,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333582/suppl/GSM2333582_B1-FD-_4-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333583,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333583/suppl/GSM2333583_B1-normal-_1-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333584,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333584/suppl/GSM2333584_B1-normal-_2-1000cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333585,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333585/suppl/GSM2333585_B1-normal-_3-800cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333586,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333586/suppl/GSM2333586_B2-normal-_1-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333587,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333587/suppl/GSM2333587_B2-normal-_2-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333588,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333588/suppl/GSM2333588_B2-FD-_1-1100cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333589,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333589/suppl/GSM2333589_B2-FD-_2-400cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333590,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333590/suppl/GSM2333590_B2-FD-_3-2200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333591,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333591/suppl/GSM2333591_B3-Normal-_1-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333592,normal_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333592/suppl/GSM2333592_B3-Normal-_2-1200cells.dge.txt.gz,hypothalamus
+GSE87544,GSM2333593,food deprived_hypothalamus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2333nnn/GSM2333593/suppl/GSM2333593_B4-FD-_1-2200cells.dge.txt.gz,hypothalamus

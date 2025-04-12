@@ -1,0 +1,6 @@
+gse_id,title,abstract,url,pubMedIds,overall_design,sample_id,status,summary,supplementary_file
+GSE103976,Detecting Activated Cell Populations Using Single-Cell RNA-Seq,Single-cell RNA sequencing of mouse amygdala using Drop-Seq,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103976,29024657,"Drop-Seq was performed for amygdala cells dissociated from male C57BL/6J mice in different experimental groups using different single-cell dissociation methods.
+
+Single-cell suspensions were generated using the Act-Seq protocol or conventional dissociation protocol, and processed through Drop-Seq to produce single-cell cDNA libraries attached to microbeads. cDNAs were amplified by PCR and prepared for sequencing through tagmentation.",GSM2787209 GSM2787210 GSM2787211 GSM2787212 GSM2787213 GSM2787214 GSM2787215 GSM2787216 GSM2787217 GSM2787218 GSM2787219 GSM2787220 GSM2787221 GSM2787222 GSM2787223 GSM2787224 GSM2787225 GSM2787226 GSM2787227 ,Public on Oct 11 2017,Single-cell RNA sequencing of mouse amygdala using Drop-Seq,"ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE103nnn/GSE103976/suppl/GSE103976_MeA_Act-Seq_vs_Conventional_DGE.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE103nnn/GSE103976/suppl/GSE103976_MeA_AllCells_DGE.txt.gz
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE103nnn/GSE103976/suppl/GSE103976_MeA_Neurons_DGE.txt.gz"

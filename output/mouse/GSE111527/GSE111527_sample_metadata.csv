@@ -1,0 +1,10 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,brain_region,sex,age_(weeks)
+GSE111527,GSM3032675,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032675/suppl/GSM3032675_an002_dge.txt.gz,brain,"subventricular zone, SVZ",female,16.7
+GSE111527,GSM3032676,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032676/suppl/GSM3032676_an003F_dge.txt.gz,brain,"subventricular zone, SVZ",female,13.7
+GSE111527,GSM3032677,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032677/suppl/GSM3032677_an003L_dge.txt.gz,brain,"subventricular zone, SVZ",female,13.9
+GSE111527,GSM3032678,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032678/suppl/GSM3032678_an008_dge.txt.gz,brain,"subventricular zone, SVZ",male,13.1
+GSE111527,GSM3032679,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032679/suppl/GSM3032679_an009_dge.txt.gz,brain,"subventricular zone, SVZ",mixed,13.4
+GSE111527,GSM3032680,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032680/suppl/GSM3032680_an007WT_dge.txt.gz,brain,"subventricular zone, SVZ",male,11.3
+GSE111527,GSM3032681,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032681/suppl/GSM3032681_an007KO_dge.txt.gz,brain,"subventricular zone, SVZ",male,11.3
+GSE111527,GSM3032682,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032682/suppl/GSM3032682_an010WT_dge.txt.gz,brain,"subventricular zone, SVZ",male,11.4
+GSE111527,GSM3032683,adult subventricular zone,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3032nnn/GSM3032683/suppl/GSM3032683_an010KO_dge.txt.gz,brain,"subventricular zone, SVZ",male,11.4

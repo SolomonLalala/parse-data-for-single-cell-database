@@ -1,0 +1,13 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,tissue_region,gender,age
+GSE140231,GSM4157067,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157067/suppl/GSM4157067_Sample_5_C3.tar.gz,Brain,Cortex,Male,59
+GSE140231,GSM4157068,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157068/suppl/GSM4157068_Sample_6_N3.tar.gz,Brain,Substantia nigra,Male,59
+GSE140231,GSM4157069,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157069/suppl/GSM4157069_Sample_7_N4.tar.gz,Brain,Substantia nigra,Male,70
+GSE140231,GSM4157070,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157070/suppl/GSM4157070_Sample_8_N5.tar.gz,Brain,Substantia nigra,Female,56
+GSE140231,GSM4157071,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157071/suppl/GSM4157071_Sample_9_C1B.tar.gz,Brain,Cortex,Male,70
+GSE140231,GSM4157072,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157072/suppl/GSM4157072_Sample_10_N1B.tar.gz,Brain,Substantia nigra,Male,70
+GSE140231,GSM4157073,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157073/suppl/GSM4157073_Sample_11_C2B.tar.gz,Brain,Cortex,Male,55
+GSE140231,GSM4157074,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157074/suppl/GSM4157074_Sample_12_N2B.tar.gz,Brain,Substantia nigra,Male,55
+GSE140231,GSM4157075,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157075/suppl/GSM4157075_Sample_13_C4B.tar.gz,Brain,Cortex,Male,70
+GSE140231,GSM4157076,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157076/suppl/GSM4157076_Sample_14_N4B.tar.gz,Brain,Substantia nigra,Male,70
+GSE140231,GSM4157077,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157077/suppl/GSM4157077_Sample_15_C5B.tar.gz,Brain,Cortex,Female,56
+GSE140231,GSM4157078,Brain,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4157nnn/GSM4157078/suppl/GSM4157078_Sample_16_N5B.tar.gz,Brain,Substantia nigra,Female,56

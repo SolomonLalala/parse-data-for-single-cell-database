@@ -1,0 +1,4 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,disease,tissue
+GSE130105,GSM3732008,CNS Percoll pellet,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3732nnn/GSM3732008/suppl/GSM3732008_C1_filtered_gene_bc_matrices.csv.gz,hippocampal sclerosis patient,Healthy control tissue
+GSE130105,GSM3732009,CNS Percoll pellet,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3732nnn/GSM3732009/suppl/GSM3732009_C2_filtered_gene_bc_matrices.csv.gz,hippocampal sclerosis patient,Healthy control tissue
+GSE130105,GSM3732010,CNS Percoll pellet,Homo sapiens,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3732nnn/GSM3732010/suppl/GSM3732010_C3_filtered_gene_bc_matrices.csv.gz,glioblastoma patient,Healthy control tissue

@@ -1,0 +1,17 @@
+gse_id,gsm_id,source_name_ch1,organism_ch1,supplementary_file_1,tissue,age
+GSE108761,GSM2971228,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971228/suppl/GSM2971228_P5_1.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 5
+GSE108761,GSM2971229,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971229/suppl/GSM2971229_P5_2.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 5
+GSE108761,GSM2971230,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971230/suppl/GSM2971230_P5_3.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 5
+GSE108761,GSM2971231,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971231/suppl/GSM2971231_P5_4.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 5
+GSE108761,GSM2971232,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971232/suppl/GSM2971232_P10_1.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 10
+GSE108761,GSM2971233,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971233/suppl/GSM2971233_P10_2.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 10
+GSE108761,GSM2971234,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971234/suppl/GSM2971234_P10_3.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 10
+GSE108761,GSM2971235,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971235/suppl/GSM2971235_P10_4.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 10
+GSE108761,GSM2971236,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971236/suppl/GSM2971236_P16_1.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 16
+GSE108761,GSM2971237,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971237/suppl/GSM2971237_P16_2.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 16
+GSE108761,GSM2971238,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971238/suppl/GSM2971238_P16_3.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 16
+GSE108761,GSM2971239,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971239/suppl/GSM2971239_P16_4.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 16
+GSE108761,GSM2971240,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971240/suppl/GSM2971240_P21_1.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 21
+GSE108761,GSM2971241,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971241/suppl/GSM2971241_P21_2.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 21
+GSE108761,GSM2971242,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971242/suppl/GSM2971242_P21_3.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 21
+GSE108761,GSM2971243,Lateral geniculte nucleus,Mus musculus,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2971nnn/GSM2971243/suppl/GSM2971243_P21_4.counts.tsv.gz,Lateral geniculte nucleus,Post-natal day 21
