@@ -1,5 +1,5 @@
 ---
-title: "parse geo"
+title: "parse geo for single cell database"
 output: html_document
 date: "2025-04-09"
 ---
@@ -35,31 +35,189 @@ gse <- getGEO(
   ) 
 ```
 
-# extract
+# extract series information
 ```{r}
 # Assign objects with clear names
-assign(paste0(gse_id, "_eset"), gse[[1]])
-assign(paste0(gse_id, "_pheno"), pData(get(paste0(gse_id, "_eset"))))
-assign(paste0(gse_id, "_feature"), fData(get(paste0(gse_id, "_eset"))))
-assign(paste0(gse_id, "_expr"), exprs(get(paste0(gse_id, "_eset"))))
+assign(paste0(gse_id, "_eset"), gse[[1]]) # expression set object
+assign(paste0(gse_id, "_exp"), experimentData(get(paste0(gse_id, "_eset")))) # experimentData object
+assign(paste0(gse_id, "_pheno"), pData(get(paste0(gse_id, "_eset")))) # phenotype dataframe
+assign(paste0(gse_id, "_feature"), fData(get(paste0(gse_id, "_eset")))) # feature dataframe
+assign(paste0(gse_id, "_expr"), exprs(get(paste0(gse_id, "_eset")))) # expression matrix
 ```
 
-# save
+# define a function to extract dataset level information
 ```{r}
-save(list = c(
-  paste0(gse_id, "_eset"),
-  paste0(gse_id, "_pheno"),
-  paste0(gse_id, "_feature"),
-  paste0(gse_id, "_expr")),
-  file = paste0(dest_dir, "/", gse_id, "_objects.RData")
-  )
+experimentData_to_df <- function(gse_id) {
+  tryCatch({
+  # Retrieve the experimentData object
+  expData_obj <- get(paste0(gse_id, "_exp"))
+
+  # Initialize list to hold field values
+  metadata_list <- list()
+  
+  # Step 1: Loop through each slot in the experimentData object
+  # Loop through each slot
+  for (slot_name in slotNames(expData_obj)) {
+    # Extract the value
+    value <- slot(expData_obj, slot_name)
+    
+    # Convert list-like fields to a string
+    if (is.list(value)) {
+      value <- paste(unlist(value), collapse = "; ")
+    }
+    
+    # Add to list (as a named element)
+    metadata_list[[slot_name]] <- value
+  }
+  
+  # Step 2: Add all fields from @other (flatten them)
+  if (!is.null(expData_obj@other) && length(expData_obj@other) > 0) {
+    other_flat <- lapply(expData_obj@other, function(x) {
+      if (is.list(x)) paste(unlist(x), collapse = "; ") else x
+    })
+    metadata_list <- c(metadata_list, other_flat)
+  }
+
+  # Convert to one-row data.frame
+  metadata_df <- as.data.frame(metadata_list, stringsAsFactors = FALSE) %>%
+    rename(gse_id = geo_accession) %>%
+    relocate(gse_id) 
+}, error = function(e) {
+    message("Failed to extract dataset-level metadata for ", gse_id, ": ", conditionMessage(e))
+    # return empty row with NAs and gse_id
+    tibble(gse_id = gse_id)
+  })
+}
 ```
 
 # extract dataset level information
 ```{r}
+assign(paste0(gse_id, "_exp", "_df"), experimentData_to_df(gse_id))
+```
 
+## extract selected fields of dataset level information
+```{r}
+# Define desired fields
+desired_fields_dataset <- c(
+  "gse_id", "title", "abstract", "url", "pubMedIds", 
+   "overall_design", 
+  "sample_id", "status", "summary", "supplementary_file"
+)
+
+# Select available fields only and assign a new dataframe to the selected fields
+assign(
+  paste0(gse_id, "_exp", "_df", "_selected"), 
+  get(paste0(gse_id, "_exp", "_df")) %>%
+    select(any_of(desired_fields_dataset))
+  )
 ```
 
 # extract sample level information
+```{r}
+extract_sample_metadata <- function(pheno_df, gse_id) {
+  tryCatch({
+  # Define columns we always want
+  base_fields <- c("geo_accession", "source_name_ch1", "organism_ch1")
+
+  # Define keywords to look for in column names or first-row values
+  keywords <- c("tissue", "organ", "source", "age", "sex", "gender",
+                "disease", "state", "condition", "brain", "region")
+
+  # Get all column names
+  all_colnames <- colnames(pheno_df)
+
+  # Filter only "characteristics" columns
+  characteristics_cols <- all_colnames[str_detect(all_colnames, "characteristics")]
+  
+  characteristics_cols_lower <- tolower(characteristics_cols)
+  
+  # Get the first row values of those columns
+  first_row_values <- pheno_df %>%
+    slice(1) %>%
+    select(all_of(characteristics_cols)) %>%
+    mutate(across(everything(), ~tolower(as.character(.)))) %>%
+    unlist()
+  
+  # Find matching columns
+  matched_cols <- names(first_row_values)[
+    map_lgl(seq_along(characteristics_cols), function(i) {
+      str_detect(first_row_values[i], paste(keywords, collapse = "|"))
+    })
+  ]
+  
+  # Find columns that contain "supplementary" in their names
+  supplementary_cols <- all_colnames[str_detect(all_colnames, "supplementary")]
+  
+  # Combine with base columns
+  selected_cols <- intersect(unique(c(base_fields, matched_cols, supplementary_cols)), colnames(pheno_df))
+
+  # filtered df
+  pheno_df %>% select(all_of(selected_cols)) %>%
+    mutate(sample_row = row_number()) %>%  # Add unique row ID
+    pivot_longer(cols = contains("characteristics_ch1"),
+                 names_to = "char_col",
+                 values_to = "char_value") %>%
+    separate(char_value, into = c("key", "value"), sep = ":", extra = "merge", fill = "right") %>%
+    mutate(key = str_trim(key) %>% 
+             str_to_lower() %>% 
+             str_replace_all(" ", "_"), value = str_trim(value)) %>%
+    filter(!is.na(key)) %>%
+    pivot_wider(id_cols = sample_row, names_from = key, values_from = value) %>%
+    left_join(pheno_df %>% 
+                mutate(sample_row = row_number()) %>%
+                select(sample_row, any_of(c(base_fields, supplementary_cols))), by = "sample_row") %>%
+    select(any_of(c(base_fields, supplementary_cols)), everything(), -sample_row) %>%  # Rearrange & drop helper
+    relocate(any_of(base_fields)) %>%  # put base fields at the front
+    mutate(gse_id = gse_id) %>%
+    relocate(gse_id) %>% 
+    rename(gsm_id = geo_accession)
+}, error = function(e) {
+    message("Failed to extract sample metadata for ", gse_id, ": ", conditionMessage(e))
+    tibble(gse_id = gse_id)
+  })
+}
+```
+
+```{r}
+assign(paste0(gse_id, "_pheno", "_filtered"), 
+       extract_sample_metadata(get(paste0(gse_id, "_pheno")), gse_id))
+
+```
+
+# save variables
+```{r}
+save(
+  gse_id,
+  dest_dir,
+  gse,
+  list = c(
+  paste0(gse_id, "_eset"),
+  paste0(gse_id, "_exp"),
+  paste0(gse_id, "_pheno"),
+  paste0(gse_id, "_feature"),
+  paste0(gse_id, "_expr"),
+  paste0(gse_id, "_exp", "_df"),
+  paste0(gse_id, "_exp", "_df", "_selected"),
+  paste0(gse_id, "_pheno", "_filtered")),
+  file = paste0(dest_dir, "/", gse_id, "_objects.RData")
+  )
+```
+
+# export dataset level and sample level metadata
+```{r}
+# Export dataset level metadata
+write.csv(
+  get(paste0(gse_id, "_exp", "_df", "_selected")), 
+  file = paste0(dest_dir, "/", gse_id, "_dataset_metadata.csv"),
+  row.names = FALSE
+)
+# Export sample level metadata
+write.csv(
+  get(paste0(gse_id, "_pheno", "_filtered")), 
+  file = paste0(dest_dir, "/", gse_id, "_sample_metadata.csv"),
+  row.names = FALSE
+)
+```
+
 
 
