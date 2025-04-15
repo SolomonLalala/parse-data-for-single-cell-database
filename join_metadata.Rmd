@@ -1,0 +1,57 @@
+---
+title: "join multiple metadata df to one df"
+output: html_document
+date: "2025-04-09"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# test
+```{r}
+df <- read.csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
+tb <- read_csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
+```
+
+
+# combine human dataset meta
+```{r }
+# loop through the directory output/human/GSE*
+human_dataset_lists <- list.files(
+  path = "output/human",
+  pattern = "^GSE\\d+_dataset_metadata\\.csv$",
+  recursive = TRUE,
+  full.names = TRUE
+)
+
+# read in the file "GSE*_dataset_metadata.csv" # join the tibbles together
+human_dataset_combined <- human_dataset_lists %>%
+  set_names() %>%
+  map_df(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file")%>%
+  select(-source_file)
+
+# write the joined tibble to output/human/joined
+write_csv(human_dataset_combined, file.path("output", "human_dataset_combined.csv"))
+```
+
+# combine mouse dataset meta
+```{r }
+# loop through the directory output/human/GSE*
+mouse_dataset_lists <- list.files(
+  path = "output/mouse",
+  pattern = "^GSE\\d+_dataset_metadata\\.csv$",
+  recursive = TRUE,
+  full.names = TRUE
+)
+
+# read in the file "GSE*_dataset_metadata.csv" # join the tibbles together
+mouse_dataset_combined <- mouse_dataset_lists %>%
+  set_names() %>%
+  map_df(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file")%>%
+  select(-source_file)
+
+# write the joined tibble to output/human/joined
+write_csv(mouse_dataset_combined, file.path("output", "mouse_dataset_combined.csv"))
+```
