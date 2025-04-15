@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-# test
+# examine a few sample meta
 ```{r}
 df <- read.csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
 tb <- read_csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
@@ -52,6 +52,58 @@ mouse_dataset_combined <- mouse_dataset_lists %>%
   map_df(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file")%>%
   select(-source_file)
 
-# write the joined tibble to output/human/joined
+# write the joined tibble to output
 write_csv(mouse_dataset_combined, file.path("output", "mouse_dataset_combined.csv"))
 ```
+
+# examine a few sample meta
+```{r}
+gse70630 <- read_csv("output/human/GSE70630/GSE70630_sample_metadata.csv")
+gse76381 <- read_csv("output/human/GSE76381/GSE76381_sample_metadata.csv")
+gse84465 <- read_csv("output/human/GSE84465/GSE84465_sample_metadata.csv")
+gse89567 <- read_csv("output/human/GSE89567/GSE89567_sample_metadata.csv")
+gse97930 <- read_csv("output/human/GSE97930/GSE97930_sample_metadata.csv")
+```
+
+
+# combine human sample meta
+```{r}
+# Step 1: List the sample metadata files
+human_sample_list <- list.files(
+  path = "output/human", 
+  pattern = "^GSE\\d+_sample_metadata\\.csv$", 
+  recursive = TRUE, 
+  full.names = TRUE
+)
+
+# Step 2: Combine using map_dfr which handles different columns
+human_sample_combined <- human_sample_list %>%
+  set_names() %>%
+  map_dfr(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file") %>%
+  select(-source_file)
+
+# Step 3: write the joined tibble to output
+write_csv(human_sample_combined, file.path("output", "human_sample_combined.csv"))
+```
+
+# combine mouse sample meta
+```{r}
+# Step 1: List the sample metadata files
+mouse_sample_list <- list.files(
+  path = "output/mouse", 
+  pattern = "^GSE\\d+_sample_metadata\\.csv$", 
+  recursive = TRUE, 
+  full.names = TRUE
+)
+
+# Step 2: Combine using map_dfr which handles different columns
+mouse_sample_combined <- mouse_sample_list %>%
+  set_names() %>%
+  map_dfr(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file") %>%
+  select(-source_file)
+
+# Step 3: write the joined tibble to output
+write_csv(mouse_sample_combined, file.path("output", "mouse_sample_combined.csv"))
+```
+
+
