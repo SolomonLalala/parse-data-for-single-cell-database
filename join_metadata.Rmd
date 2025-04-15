@@ -1,5 +1,5 @@
 ---
-title: "join multiple metadata df to one df"
+title: "join multiple metadata tibbles to one tibble"
 output: html_document
 date: "2025-04-09"
 ---
@@ -9,14 +9,15 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-# examine a few sample meta
+# combine dataset level infor
+## examine a few sample meta
 ```{r}
 df <- read.csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
 tb <- read_csv("output/human/GSE70630/GSE70630_dataset_metadata.csv")
 ```
 
 
-# combine human dataset meta
+## combine human dataset meta
 ```{r }
 # loop through the directory output/human/GSE*
 human_dataset_lists <- list.files(
@@ -26,7 +27,7 @@ human_dataset_lists <- list.files(
   full.names = TRUE
 )
 
-# read in the file "GSE*_dataset_metadata.csv" # join the tibbles together
+# read in the file join the tibbles together
 human_dataset_combined <- human_dataset_lists %>%
   set_names() %>%
   map_df(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file")%>%
@@ -36,7 +37,7 @@ human_dataset_combined <- human_dataset_lists %>%
 write_csv(human_dataset_combined, file.path("output", "human_dataset_combined.csv"))
 ```
 
-# combine mouse dataset meta
+## combine mouse dataset meta
 ```{r }
 # loop through the directory output/human/GSE*
 mouse_dataset_lists <- list.files(
@@ -46,7 +47,7 @@ mouse_dataset_lists <- list.files(
   full.names = TRUE
 )
 
-# read in the file "GSE*_dataset_metadata.csv" # join the tibbles together
+# read in the file join the tibbles together
 mouse_dataset_combined <- mouse_dataset_lists %>%
   set_names() %>%
   map_df(~ read_csv(.x, col_types = cols(.default = "c")), .id = "source_file")%>%
@@ -56,7 +57,8 @@ mouse_dataset_combined <- mouse_dataset_lists %>%
 write_csv(mouse_dataset_combined, file.path("output", "mouse_dataset_combined.csv"))
 ```
 
-# examine a few sample meta
+# combine sample level infor
+## examine a few sample meta
 ```{r}
 gse70630 <- read_csv("output/human/GSE70630/GSE70630_sample_metadata.csv")
 gse76381 <- read_csv("output/human/GSE76381/GSE76381_sample_metadata.csv")
@@ -66,7 +68,7 @@ gse97930 <- read_csv("output/human/GSE97930/GSE97930_sample_metadata.csv")
 ```
 
 
-# combine human sample meta
+## combine human sample meta
 ```{r}
 # Step 1: List the sample metadata files
 human_sample_list <- list.files(
@@ -86,7 +88,7 @@ human_sample_combined <- human_sample_list %>%
 write_csv(human_sample_combined, file.path("output", "human_sample_combined.csv"))
 ```
 
-# combine mouse sample meta
+## combine mouse sample meta
 ```{r}
 # Step 1: List the sample metadata files
 mouse_sample_list <- list.files(
@@ -105,5 +107,127 @@ mouse_sample_combined <- mouse_sample_list %>%
 # Step 3: write the joined tibble to output
 write_csv(mouse_sample_combined, file.path("output", "mouse_sample_combined.csv"))
 ```
+
+## reduce dimentionality of combined sample table
+```{r}
+# examine column names of human_sample_combined
+human_sample_combined_colname <- colnames(human_sample_combined)
+
+# examine selected columns
+selected_col <- "tissue"
+
+# get non NA for selected columns
+human_sample_combined %>%
+  filter(!is.na(.data[[selected_col]]) & .data[[selected_col]] != "") %>%
+  pull(.data[[selected_col]])
+
+# Calculate proportions
+human_sample_combined %>%
+  summarise(
+    total = n(),
+    non_missing = sum(!is.na(.data[[selected_col]]) & .data[[selected_col]] != ""),
+    missing = sum(is.na(.data[[selected_col]]) | .data[[selected_col]] == ""),
+    non_missing_pct = non_missing / total * 100,
+    missing_pct = missing / total * 100
+  )
+```
+
+### preselection
+```{r}
+# Define the columns to remove
+columns_to_remove <- c(
+  "cloneid", "protocol", "brain_bank",
+  "braak_stage_(ad_neuropathological_progression)", 
+  "braak_tangle_stage", "source", "culture_condition", "organoid_generation"
+)
+# Remove
+human_sample_combined <- human_sample_combined %>%
+  select(-any_of(columns_to_remove))
+```
+
+### reduce dimentionality of human_sample_combined
+```{r}
+# Collapse helper function
+collapse_columns <- function(df, keywords, new_name) {
+  cols_to_merge <- df %>%
+    select(matches(paste(keywords, collapse = "|"), ignore.case = TRUE)) %>%
+    colnames()
+
+  message("Merging into ", new_name, ": ", paste(cols_to_merge, collapse = ", "))
+
+  df %>%
+    mutate(!!new_name := coalesce(!!!syms(cols_to_merge))) %>%
+    select(-all_of(setdiff(cols_to_merge, new_name)))
+}
+
+# Apply to key features
+human_sample_combined_reduced <- human_sample_combined %>%
+  collapse_columns(c("age", "age_at_death", "age_\\(weeks\\)", "age_\\(years\\)", "age_\\(yr\\)"), "Age") %>%
+  collapse_columns(c("sex", "gender"), "Sex") %>%
+  collapse_columns(c("disease", "disease_state", "health_condition"), "Disease_status") %>%
+  collapse_columns(c("tissue", "tissue_region", "culture_type", "sample_type", "region", "brain_region"), "Tissue") %>%
+  # collapse_columns(c("developmental_stage", "development_stage", "stage"), "Stage") %>%
+  collapse_columns(c("supplementary_file"), "Supplementary")
+```
+
+### examine the reduced sample meta
+```{r}
+# examine selected columns
+selected_col_reduced <- "Supplementary"
+
+# get non NA for selected columns
+human_sample_combined_reduced %>%
+  filter(!is.na(.data[[selected_col_reduced]]) & .data[[selected_col_reduced]] != "") %>%
+  pull(.data[[selected_col_reduced]])
+
+# Calculate proportions
+human_sample_combined_reduced %>%
+  summarise(
+    total = n(),
+    non_missing = sum(!is.na(.data[[selected_col_reduced]]) & .data[[selected_col_reduced]] != ""),
+    missing = sum(is.na(.data[[selected_col_reduced]]) | .data[[selected_col_reduced]] == ""),
+    non_missing_pct = non_missing / total * 100,
+    missing_pct = missing / total * 100
+  )
+```
+
+
+### visualize Missingness / Sparsity
+```{r}
+library(naniar)    # for missing value visualization
+library(ggplot2)
+
+# Visualize missingness heatmap on reduced metadata
+gg_miss_upset(human_sample_combined_reduced)  # Summary of intersection of missingness (like Venn diagram)
+
+# For a full heatmap (sample × feature)
+human_sample_combined_reduced %>%
+  select(-gse_id, -gsm_id) %>%
+  mutate(across(everything(), ~ifelse(is.na(.), 0, 1))) %>%
+  as.matrix() %>%
+  image(
+    main = "Missingness Heatmap",
+    xlab = "Features",
+    ylab = "Samples",
+    col = c("white", "black")
+  )
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
