@@ -108,7 +108,7 @@ mouse_sample_combined <- mouse_sample_list %>%
 write_csv(mouse_sample_combined, file.path("output", "mouse_sample_combined.csv"))
 ```
 
-## reduce dimentionality of combined sample table
+## select features of combined human sample table
 ```{r}
 # examine column names of human_sample_combined
 human_sample_combined_colname <- colnames(human_sample_combined)
@@ -159,7 +159,10 @@ collapse_columns <- function(df, keywords, new_name) {
     mutate(!!new_name := coalesce(!!!syms(cols_to_merge))) %>%
     select(-all_of(setdiff(cols_to_merge, new_name)))
 }
+```
 
+
+```{r}
 # Apply to key features
 human_sample_combined_reduced <- human_sample_combined %>%
   collapse_columns(c("age", "age_at_death", "age_\\(weeks\\)", "age_\\(years\\)", "age_\\(yr\\)"), "Age") %>%
@@ -213,10 +216,103 @@ human_sample_combined_reduced %>%
   )
 ```
 
+### export reduced human sample infor
+```{r}
+# write the joined tibble to output
+write_csv(human_sample_combined_reduced, file.path("output", "human_sample_combined_reduced.csv"))
+```
+
+## select features of combined mouse sample table
+```{r}
+# Summarize missingness for each column in mouse_sample_combined
+missing_summary <- mouse_sample_combined %>%
+  pivot_longer(cols = everything(), names_to = "column", values_to = "value") %>%
+  group_by(column) %>%
+  summarise(
+    total = n(),
+    non_missing = sum(!is.na(value) & value != ""),
+    missing = sum(is.na(value) | value == ""),
+    non_missing_pct = round(non_missing / total * 100, 2),
+    missing_pct = round(missing / total * 100, 2),
+    .groups = "drop"
+  ) %>%
+  arrange(missing_pct)
+
+# View summary
+missing_summary
+```
+
+### preselection
+```{r}
+# Define the columns to remove
+columns_to_remove_mouse <- c(
+  "strain", "single-cell_dissociation_method", "1_brain_or_pooled",
+  "genotype/variation", 
+  "reporter"
+)
+# Remove
+mouse_sample_combined <- mouse_sample_combined %>%
+  select(-any_of(columns_to_remove_mouse))
+```
+
+### reduce dimentionality of mouse_sample_combined
+```{r}
+# Apply to key features
+mouse_sample_combined_reduced <- mouse_sample_combined %>%
+  collapse_columns(c("age", "mouse_age", "pup\\.age\\.at\\.injection", "age_\\(approx\\)", "cell\\.age", "average_age", "age_\\(weeks\\)", "mouse_stage", "developmental_stage"), "Age") %>%
+  collapse_columns(c("sex", "gender"), "Sex") %>%
+  collapse_columns(c("treatment", "experimental_condition", "condition"), "Condition") %>%
+  collapse_columns(c("tissue", "cell_type", "region", "brain_area", "brain_region"), "Tissue") %>%
+  collapse_columns(c("supplementary_file"), "Supplementary")
+```
+
+### examine the reduced sample meta
+```{r}
+# Summarize missingness for each column in mouse_sample_combined
+missing_summary_reduced <- mouse_sample_combined_reduced %>%
+  pivot_longer(cols = everything(), names_to = "column", values_to = "value") %>%
+  group_by(column) %>%
+  summarise(
+    total = n(),
+    non_missing = sum(!is.na(value) & value != ""),
+    missing = sum(is.na(value) | value == ""),
+    non_missing_pct = round(non_missing / total * 100, 2),
+    missing_pct = round(missing / total * 100, 2),
+    .groups = "drop"
+  ) %>%
+  arrange(missing_pct)
+
+# View summary
+missing_summary_reduced
+```
 
 
+### visualize Missingness / Sparsity
+```{r}
+library(naniar)    # for missing value visualization
+library(ggplot2)
 
+# Visualize missingness heatmap on reduced metadata
+gg_miss_upset(mouse_sample_combined_reduced)  # Summary of intersection of missingness (like Venn diagram)
 
+# For a full heatmap (sample × feature)
+mouse_sample_combined_reduced %>%
+  select(-gse_id, -gsm_id) %>%
+  mutate(across(everything(), ~ifelse(is.na(.), 0, 1))) %>%
+  as.matrix() %>%
+  image(
+    main = "Missingness Heatmap",
+    xlab = "Features",
+    ylab = "Samples",
+    col = c("white", "black")
+  )
+```
+
+### export reduced human sample infor
+```{r}
+# write the joined tibble to output
+write_csv(mouse_sample_combined_reduced, file.path("output", "mouse_sample_combined_reduced.csv"))
+```
 
 
 
